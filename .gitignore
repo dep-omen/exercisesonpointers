@@ -1,0 +1,8 @@
+# 1. Ignore everything by default
+*
+
+# 2. Allow your .c source files
+!*.c
+
+# 3. Keep the .gitignore file itself tracked
+!.gitignore
